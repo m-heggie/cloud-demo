@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`webflow cloud init`](https://developers.webflow.com/webflow-cloud/intro).
 
-## Getting Started
+## Getting Started 1
 
 First, run the development server:
 
